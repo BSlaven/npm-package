@@ -1,0 +1,23 @@
+{
+  "name": "is_slaven_bunijevac",
+  "version": "1.0.0",
+  "description": "Is the string slaven bunijevac?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSlaven/npm-package.git"
+  },
+  "keywords": [
+    "slaven",
+    "bunijevac"
+  ],
+  "author": "Slaven Bunijevac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSlaven/npm-package/issues"
+  },
+  "homepage": "https://github.com/BSlaven/npm-package#readme"
+}
